@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(108, 145, 248);
+}
+
+.heading{
+    font-size: 100px;
+    text-align: center;
+    color: rgb(110, 5, 114);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a{
+    text-decoration: none;
+    font-size: 33px;
+    margin: auto 600px;
+    display: inline;
+    color: white;
+}
+
+.one:hover{
+    border-bottom: 2px solid chocolate;
+    color: chocolate;
+}
+
+.two:hover{
+    border-bottom: 2px solid  rgb(228, 224, 9);
+    color: rgb(228, 224, 9);
+}
+
+.three:hover{
+    border-bottom: 2px solid crimson;
+    color: crimson;
+}
