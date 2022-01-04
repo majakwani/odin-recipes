@@ -16,4 +16,6 @@ This repository contains all the files that are needed to create that webpage.
 
 This is my first official project. 
 
+Here's the link to the project: https://majakwani.github.io/odin-recipes
+
 Hope you like it :)
